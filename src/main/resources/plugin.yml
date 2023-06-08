@@ -1,0 +1,4 @@
+name: BekaZKacpra
+version: '${project.version}'
+main: me.domirusz24.bekazkacpra.BekaZKacpra
+api-version: 1.16
